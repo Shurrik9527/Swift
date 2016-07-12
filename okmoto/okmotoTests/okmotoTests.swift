@@ -2,7 +2,7 @@
 //  okmotoTests.swift
 //  okmotoTests
 //
-//  Created by Shurrik on 16/7/6.
+//  Created by Shurrik on 16/7/12.
 //  Copyright © 2016年 Shurrik. All rights reserved.
 //
 

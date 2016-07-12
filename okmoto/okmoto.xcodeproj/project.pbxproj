@@ -7,64 +7,64 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A9EC0D561D2D03460051FE73 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9EC0D551D2D03460051FE73 /* AppDelegate.swift */; };
-		A9EC0D581D2D03460051FE73 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9EC0D571D2D03460051FE73 /* ViewController.swift */; };
-		A9EC0D5B1D2D03460051FE73 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A9EC0D591D2D03460051FE73 /* Main.storyboard */; };
-		A9EC0D5D1D2D03460051FE73 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A9EC0D5C1D2D03460051FE73 /* Assets.xcassets */; };
-		A9EC0D601D2D03460051FE73 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A9EC0D5E1D2D03460051FE73 /* LaunchScreen.storyboard */; };
-		A9EC0D6B1D2D03460051FE73 /* okmotoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9EC0D6A1D2D03460051FE73 /* okmotoTests.swift */; };
-		A9EC0D761D2D03460051FE73 /* okmotoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9EC0D751D2D03460051FE73 /* okmotoUITests.swift */; };
+		A98D03441D34E23B00F23DB1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A98D03431D34E23B00F23DB1 /* AppDelegate.swift */; };
+		A98D03461D34E23B00F23DB1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A98D03451D34E23B00F23DB1 /* ViewController.swift */; };
+		A98D03491D34E23B00F23DB1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A98D03471D34E23B00F23DB1 /* Main.storyboard */; };
+		A98D034B1D34E23B00F23DB1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A98D034A1D34E23B00F23DB1 /* Assets.xcassets */; };
+		A98D034E1D34E23B00F23DB1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A98D034C1D34E23B00F23DB1 /* LaunchScreen.storyboard */; };
+		A98D03591D34E23B00F23DB1 /* okmotoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A98D03581D34E23B00F23DB1 /* okmotoTests.swift */; };
+		A98D03641D34E23B00F23DB1 /* okmotoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A98D03631D34E23B00F23DB1 /* okmotoUITests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		A9EC0D671D2D03460051FE73 /* PBXContainerItemProxy */ = {
+		A98D03551D34E23B00F23DB1 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = A9EC0D4A1D2D03460051FE73 /* Project object */;
+			containerPortal = A98D03381D34E23B00F23DB1 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = A9EC0D511D2D03460051FE73;
+			remoteGlobalIDString = A98D033F1D34E23B00F23DB1;
 			remoteInfo = okmoto;
 		};
-		A9EC0D721D2D03460051FE73 /* PBXContainerItemProxy */ = {
+		A98D03601D34E23B00F23DB1 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = A9EC0D4A1D2D03460051FE73 /* Project object */;
+			containerPortal = A98D03381D34E23B00F23DB1 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = A9EC0D511D2D03460051FE73;
+			remoteGlobalIDString = A98D033F1D34E23B00F23DB1;
 			remoteInfo = okmoto;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		A9EC0D521D2D03460051FE73 /* okmoto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = okmoto.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		A9EC0D551D2D03460051FE73 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		A9EC0D571D2D03460051FE73 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		A9EC0D5A1D2D03460051FE73 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		A9EC0D5C1D2D03460051FE73 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		A9EC0D5F1D2D03460051FE73 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		A9EC0D611D2D03460051FE73 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A9EC0D661D2D03460051FE73 /* okmotoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = okmotoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		A9EC0D6A1D2D03460051FE73 /* okmotoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = okmotoTests.swift; sourceTree = "<group>"; };
-		A9EC0D6C1D2D03460051FE73 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A9EC0D711D2D03460051FE73 /* okmotoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = okmotoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		A9EC0D751D2D03460051FE73 /* okmotoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = okmotoUITests.swift; sourceTree = "<group>"; };
-		A9EC0D771D2D03470051FE73 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A98D03401D34E23B00F23DB1 /* okmoto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = okmoto.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A98D03431D34E23B00F23DB1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A98D03451D34E23B00F23DB1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		A98D03481D34E23B00F23DB1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A98D034A1D34E23B00F23DB1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A98D034D1D34E23B00F23DB1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A98D034F1D34E23B00F23DB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A98D03541D34E23B00F23DB1 /* okmotoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = okmotoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A98D03581D34E23B00F23DB1 /* okmotoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = okmotoTests.swift; sourceTree = "<group>"; };
+		A98D035A1D34E23B00F23DB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A98D035F1D34E23B00F23DB1 /* okmotoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = okmotoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A98D03631D34E23B00F23DB1 /* okmotoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = okmotoUITests.swift; sourceTree = "<group>"; };
+		A98D03651D34E23B00F23DB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		A9EC0D4F1D2D03460051FE73 /* Frameworks */ = {
+		A98D033D1D34E23B00F23DB1 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A9EC0D631D2D03460051FE73 /* Frameworks */ = {
+		A98D03511D34E23B00F23DB1 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A9EC0D6E1D2D03460051FE73 /* Frameworks */ = {
+		A98D035C1D34E23B00F23DB1 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -74,53 +74,53 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A9EC0D491D2D03460051FE73 = {
+		A98D03371D34E23B00F23DB1 = {
 			isa = PBXGroup;
 			children = (
-				A9EC0D541D2D03460051FE73 /* okmoto */,
-				A9EC0D691D2D03460051FE73 /* okmotoTests */,
-				A9EC0D741D2D03460051FE73 /* okmotoUITests */,
-				A9EC0D531D2D03460051FE73 /* Products */,
+				A98D03421D34E23B00F23DB1 /* okmoto */,
+				A98D03571D34E23B00F23DB1 /* okmotoTests */,
+				A98D03621D34E23B00F23DB1 /* okmotoUITests */,
+				A98D03411D34E23B00F23DB1 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		A9EC0D531D2D03460051FE73 /* Products */ = {
+		A98D03411D34E23B00F23DB1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A9EC0D521D2D03460051FE73 /* okmoto.app */,
-				A9EC0D661D2D03460051FE73 /* okmotoTests.xctest */,
-				A9EC0D711D2D03460051FE73 /* okmotoUITests.xctest */,
+				A98D03401D34E23B00F23DB1 /* okmoto.app */,
+				A98D03541D34E23B00F23DB1 /* okmotoTests.xctest */,
+				A98D035F1D34E23B00F23DB1 /* okmotoUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A9EC0D541D2D03460051FE73 /* okmoto */ = {
+		A98D03421D34E23B00F23DB1 /* okmoto */ = {
 			isa = PBXGroup;
 			children = (
-				A9EC0D551D2D03460051FE73 /* AppDelegate.swift */,
-				A9EC0D571D2D03460051FE73 /* ViewController.swift */,
-				A9EC0D591D2D03460051FE73 /* Main.storyboard */,
-				A9EC0D5C1D2D03460051FE73 /* Assets.xcassets */,
-				A9EC0D5E1D2D03460051FE73 /* LaunchScreen.storyboard */,
-				A9EC0D611D2D03460051FE73 /* Info.plist */,
+				A98D03431D34E23B00F23DB1 /* AppDelegate.swift */,
+				A98D03451D34E23B00F23DB1 /* ViewController.swift */,
+				A98D03471D34E23B00F23DB1 /* Main.storyboard */,
+				A98D034A1D34E23B00F23DB1 /* Assets.xcassets */,
+				A98D034C1D34E23B00F23DB1 /* LaunchScreen.storyboard */,
+				A98D034F1D34E23B00F23DB1 /* Info.plist */,
 			);
 			path = okmoto;
 			sourceTree = "<group>";
 		};
-		A9EC0D691D2D03460051FE73 /* okmotoTests */ = {
+		A98D03571D34E23B00F23DB1 /* okmotoTests */ = {
 			isa = PBXGroup;
 			children = (
-				A9EC0D6A1D2D03460051FE73 /* okmotoTests.swift */,
-				A9EC0D6C1D2D03460051FE73 /* Info.plist */,
+				A98D03581D34E23B00F23DB1 /* okmotoTests.swift */,
+				A98D035A1D34E23B00F23DB1 /* Info.plist */,
 			);
 			path = okmotoTests;
 			sourceTree = "<group>";
 		};
-		A9EC0D741D2D03460051FE73 /* okmotoUITests */ = {
+		A98D03621D34E23B00F23DB1 /* okmotoUITests */ = {
 			isa = PBXGroup;
 			children = (
-				A9EC0D751D2D03460051FE73 /* okmotoUITests.swift */,
-				A9EC0D771D2D03470051FE73 /* Info.plist */,
+				A98D03631D34E23B00F23DB1 /* okmotoUITests.swift */,
+				A98D03651D34E23B00F23DB1 /* Info.plist */,
 			);
 			path = okmotoUITests;
 			sourceTree = "<group>";
@@ -128,13 +128,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A9EC0D511D2D03460051FE73 /* okmoto */ = {
+		A98D033F1D34E23B00F23DB1 /* okmoto */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A9EC0D7A1D2D03470051FE73 /* Build configuration list for PBXNativeTarget "okmoto" */;
+			buildConfigurationList = A98D03681D34E23B00F23DB1 /* Build configuration list for PBXNativeTarget "okmoto" */;
 			buildPhases = (
-				A9EC0D4E1D2D03460051FE73 /* Sources */,
-				A9EC0D4F1D2D03460051FE73 /* Frameworks */,
-				A9EC0D501D2D03460051FE73 /* Resources */,
+				A98D033C1D34E23B00F23DB1 /* Sources */,
+				A98D033D1D34E23B00F23DB1 /* Frameworks */,
+				A98D033E1D34E23B00F23DB1 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -142,69 +142,69 @@
 			);
 			name = okmoto;
 			productName = okmoto;
-			productReference = A9EC0D521D2D03460051FE73 /* okmoto.app */;
+			productReference = A98D03401D34E23B00F23DB1 /* okmoto.app */;
 			productType = "com.apple.product-type.application";
 		};
-		A9EC0D651D2D03460051FE73 /* okmotoTests */ = {
+		A98D03531D34E23B00F23DB1 /* okmotoTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A9EC0D7D1D2D03470051FE73 /* Build configuration list for PBXNativeTarget "okmotoTests" */;
+			buildConfigurationList = A98D036B1D34E23B00F23DB1 /* Build configuration list for PBXNativeTarget "okmotoTests" */;
 			buildPhases = (
-				A9EC0D621D2D03460051FE73 /* Sources */,
-				A9EC0D631D2D03460051FE73 /* Frameworks */,
-				A9EC0D641D2D03460051FE73 /* Resources */,
+				A98D03501D34E23B00F23DB1 /* Sources */,
+				A98D03511D34E23B00F23DB1 /* Frameworks */,
+				A98D03521D34E23B00F23DB1 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				A9EC0D681D2D03460051FE73 /* PBXTargetDependency */,
+				A98D03561D34E23B00F23DB1 /* PBXTargetDependency */,
 			);
 			name = okmotoTests;
 			productName = okmotoTests;
-			productReference = A9EC0D661D2D03460051FE73 /* okmotoTests.xctest */;
+			productReference = A98D03541D34E23B00F23DB1 /* okmotoTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		A9EC0D701D2D03460051FE73 /* okmotoUITests */ = {
+		A98D035E1D34E23B00F23DB1 /* okmotoUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A9EC0D801D2D03470051FE73 /* Build configuration list for PBXNativeTarget "okmotoUITests" */;
+			buildConfigurationList = A98D036E1D34E23B00F23DB1 /* Build configuration list for PBXNativeTarget "okmotoUITests" */;
 			buildPhases = (
-				A9EC0D6D1D2D03460051FE73 /* Sources */,
-				A9EC0D6E1D2D03460051FE73 /* Frameworks */,
-				A9EC0D6F1D2D03460051FE73 /* Resources */,
+				A98D035B1D34E23B00F23DB1 /* Sources */,
+				A98D035C1D34E23B00F23DB1 /* Frameworks */,
+				A98D035D1D34E23B00F23DB1 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				A9EC0D731D2D03460051FE73 /* PBXTargetDependency */,
+				A98D03611D34E23B00F23DB1 /* PBXTargetDependency */,
 			);
 			name = okmotoUITests;
 			productName = okmotoUITests;
-			productReference = A9EC0D711D2D03460051FE73 /* okmotoUITests.xctest */;
+			productReference = A98D035F1D34E23B00F23DB1 /* okmotoUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		A9EC0D4A1D2D03460051FE73 /* Project object */ = {
+		A98D03381D34E23B00F23DB1 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0730;
 				ORGANIZATIONNAME = Shurrik;
 				TargetAttributes = {
-					A9EC0D511D2D03460051FE73 = {
+					A98D033F1D34E23B00F23DB1 = {
 						CreatedOnToolsVersion = 7.3.1;
 					};
-					A9EC0D651D2D03460051FE73 = {
+					A98D03531D34E23B00F23DB1 = {
 						CreatedOnToolsVersion = 7.3.1;
-						TestTargetID = A9EC0D511D2D03460051FE73;
+						TestTargetID = A98D033F1D34E23B00F23DB1;
 					};
-					A9EC0D701D2D03460051FE73 = {
+					A98D035E1D34E23B00F23DB1 = {
 						CreatedOnToolsVersion = 7.3.1;
-						TestTargetID = A9EC0D511D2D03460051FE73;
+						TestTargetID = A98D033F1D34E23B00F23DB1;
 					};
 				};
 			};
-			buildConfigurationList = A9EC0D4D1D2D03460051FE73 /* Build configuration list for PBXProject "okmoto" */;
+			buildConfigurationList = A98D033B1D34E23B00F23DB1 /* Build configuration list for PBXProject "okmoto" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -212,37 +212,37 @@
 				en,
 				Base,
 			);
-			mainGroup = A9EC0D491D2D03460051FE73;
-			productRefGroup = A9EC0D531D2D03460051FE73 /* Products */;
+			mainGroup = A98D03371D34E23B00F23DB1;
+			productRefGroup = A98D03411D34E23B00F23DB1 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A9EC0D511D2D03460051FE73 /* okmoto */,
-				A9EC0D651D2D03460051FE73 /* okmotoTests */,
-				A9EC0D701D2D03460051FE73 /* okmotoUITests */,
+				A98D033F1D34E23B00F23DB1 /* okmoto */,
+				A98D03531D34E23B00F23DB1 /* okmotoTests */,
+				A98D035E1D34E23B00F23DB1 /* okmotoUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		A9EC0D501D2D03460051FE73 /* Resources */ = {
+		A98D033E1D34E23B00F23DB1 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A9EC0D601D2D03460051FE73 /* LaunchScreen.storyboard in Resources */,
-				A9EC0D5D1D2D03460051FE73 /* Assets.xcassets in Resources */,
-				A9EC0D5B1D2D03460051FE73 /* Main.storyboard in Resources */,
+				A98D034E1D34E23B00F23DB1 /* LaunchScreen.storyboard in Resources */,
+				A98D034B1D34E23B00F23DB1 /* Assets.xcassets in Resources */,
+				A98D03491D34E23B00F23DB1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A9EC0D641D2D03460051FE73 /* Resources */ = {
+		A98D03521D34E23B00F23DB1 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A9EC0D6F1D2D03460051FE73 /* Resources */ = {
+		A98D035D1D34E23B00F23DB1 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -252,59 +252,59 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		A9EC0D4E1D2D03460051FE73 /* Sources */ = {
+		A98D033C1D34E23B00F23DB1 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A9EC0D581D2D03460051FE73 /* ViewController.swift in Sources */,
-				A9EC0D561D2D03460051FE73 /* AppDelegate.swift in Sources */,
+				A98D03461D34E23B00F23DB1 /* ViewController.swift in Sources */,
+				A98D03441D34E23B00F23DB1 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A9EC0D621D2D03460051FE73 /* Sources */ = {
+		A98D03501D34E23B00F23DB1 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A9EC0D6B1D2D03460051FE73 /* okmotoTests.swift in Sources */,
+				A98D03591D34E23B00F23DB1 /* okmotoTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A9EC0D6D1D2D03460051FE73 /* Sources */ = {
+		A98D035B1D34E23B00F23DB1 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A9EC0D761D2D03460051FE73 /* okmotoUITests.swift in Sources */,
+				A98D03641D34E23B00F23DB1 /* okmotoUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		A9EC0D681D2D03460051FE73 /* PBXTargetDependency */ = {
+		A98D03561D34E23B00F23DB1 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = A9EC0D511D2D03460051FE73 /* okmoto */;
-			targetProxy = A9EC0D671D2D03460051FE73 /* PBXContainerItemProxy */;
+			target = A98D033F1D34E23B00F23DB1 /* okmoto */;
+			targetProxy = A98D03551D34E23B00F23DB1 /* PBXContainerItemProxy */;
 		};
-		A9EC0D731D2D03460051FE73 /* PBXTargetDependency */ = {
+		A98D03611D34E23B00F23DB1 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = A9EC0D511D2D03460051FE73 /* okmoto */;
-			targetProxy = A9EC0D721D2D03460051FE73 /* PBXContainerItemProxy */;
+			target = A98D033F1D34E23B00F23DB1 /* okmoto */;
+			targetProxy = A98D03601D34E23B00F23DB1 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		A9EC0D591D2D03460051FE73 /* Main.storyboard */ = {
+		A98D03471D34E23B00F23DB1 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				A9EC0D5A1D2D03460051FE73 /* Base */,
+				A98D03481D34E23B00F23DB1 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		A9EC0D5E1D2D03460051FE73 /* LaunchScreen.storyboard */ = {
+		A98D034C1D34E23B00F23DB1 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				A9EC0D5F1D2D03460051FE73 /* Base */,
+				A98D034D1D34E23B00F23DB1 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -312,7 +312,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		A9EC0D781D2D03470051FE73 /* Debug */ = {
+		A98D03661D34E23B00F23DB1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -358,7 +358,7 @@
 			};
 			name = Debug;
 		};
-		A9EC0D791D2D03470051FE73 /* Release */ = {
+		A98D03671D34E23B00F23DB1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -397,7 +397,7 @@
 			};
 			name = Release;
 		};
-		A9EC0D7B1D2D03470051FE73 /* Debug */ = {
+		A98D03691D34E23B00F23DB1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -408,7 +408,7 @@
 			};
 			name = Debug;
 		};
-		A9EC0D7C1D2D03470051FE73 /* Release */ = {
+		A98D036A1D34E23B00F23DB1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -419,7 +419,7 @@
 			};
 			name = Release;
 		};
-		A9EC0D7E1D2D03470051FE73 /* Debug */ = {
+		A98D036C1D34E23B00F23DB1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -431,7 +431,7 @@
 			};
 			name = Debug;
 		};
-		A9EC0D7F1D2D03470051FE73 /* Release */ = {
+		A98D036D1D34E23B00F23DB1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -443,7 +443,7 @@
 			};
 			name = Release;
 		};
-		A9EC0D811D2D03470051FE73 /* Debug */ = {
+		A98D036F1D34E23B00F23DB1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				INFOPLIST_FILE = okmotoUITests/Info.plist;
@@ -454,7 +454,7 @@
 			};
 			name = Debug;
 		};
-		A9EC0D821D2D03470051FE73 /* Release */ = {
+		A98D03701D34E23B00F23DB1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				INFOPLIST_FILE = okmotoUITests/Info.plist;
@@ -468,40 +468,40 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A9EC0D4D1D2D03460051FE73 /* Build configuration list for PBXProject "okmoto" */ = {
+		A98D033B1D34E23B00F23DB1 /* Build configuration list for PBXProject "okmoto" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A9EC0D781D2D03470051FE73 /* Debug */,
-				A9EC0D791D2D03470051FE73 /* Release */,
+				A98D03661D34E23B00F23DB1 /* Debug */,
+				A98D03671D34E23B00F23DB1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A9EC0D7A1D2D03470051FE73 /* Build configuration list for PBXNativeTarget "okmoto" */ = {
+		A98D03681D34E23B00F23DB1 /* Build configuration list for PBXNativeTarget "okmoto" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A9EC0D7B1D2D03470051FE73 /* Debug */,
-				A9EC0D7C1D2D03470051FE73 /* Release */,
+				A98D03691D34E23B00F23DB1 /* Debug */,
+				A98D036A1D34E23B00F23DB1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		A9EC0D7D1D2D03470051FE73 /* Build configuration list for PBXNativeTarget "okmotoTests" */ = {
+		A98D036B1D34E23B00F23DB1 /* Build configuration list for PBXNativeTarget "okmotoTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A9EC0D7E1D2D03470051FE73 /* Debug */,
-				A9EC0D7F1D2D03470051FE73 /* Release */,
+				A98D036C1D34E23B00F23DB1 /* Debug */,
+				A98D036D1D34E23B00F23DB1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		A9EC0D801D2D03470051FE73 /* Build configuration list for PBXNativeTarget "okmotoUITests" */ = {
+		A98D036E1D34E23B00F23DB1 /* Build configuration list for PBXNativeTarget "okmotoUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A9EC0D811D2D03470051FE73 /* Debug */,
-				A9EC0D821D2D03470051FE73 /* Release */,
+				A98D036F1D34E23B00F23DB1 /* Debug */,
+				A98D03701D34E23B00F23DB1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = A9EC0D4A1D2D03460051FE73 /* Project object */;
+	rootObject = A98D03381D34E23B00F23DB1 /* Project object */;
 }

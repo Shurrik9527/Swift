@@ -7,3 +7,6 @@ test a branch
 add merge
 
 update using mac os
+
+
+use Git Gui
